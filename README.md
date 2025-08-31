@@ -91,7 +91,4 @@ Ensure compliance with Meta’s LLaMA licensing terms before using this model.
 * [Hugging Face](https://huggingface.co/) for tools & hosting
 * [llama.cpp](https://github.com/ggerganov/llama.cpp) for GGUF runtime support
 
-```
 
-👉 Do you want me to make this README **resume/portfolio friendly** (with a "My Contribution" section describing what you specifically built, e.g. dataset prep, fine-tuning, exporting to GGUF, uploading to HF)?
-```
